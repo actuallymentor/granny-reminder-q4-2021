@@ -24,7 +24,12 @@ main form {
     font-family: sans-serif;  
 }
 
-main form input {
+main form input, input#address {
     margin: 1rem 0;
     padding: .2rem .5rem;
+}
+
+
+button#save {
+    margin:  .5rem 0;
 }
